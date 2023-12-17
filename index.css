@@ -73,7 +73,7 @@ body,html {
 #middle {
     width:100%;
     height:80vh;
-    background:linear-gradient(0deg,rgba(0,0,0,1),rgba(0,0,0,0)),url("https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA3MThfMTEw%2FMDAxNjg5Njc4MjAzNTIx.ptXzDO9wJ7Z1iRRnhD-8gq8fBTHUMGslNAk49XOQUlwg.a896LF_58MJKYz7XRIZTVYu6gvpfokw1iTfK3QvHfMkg.JPEG.riadaily28%2F16882388.jpg&type=sc960_832") center center fixed;
+    background:linear-gradient(0deg,rgba(0,0,0,1),rgba(0,0,0,0)),url("image/oceanbg.jpg") center center fixed;
     background-size:100% auto;
     background-repeat:no-repeat;
     color:white;
